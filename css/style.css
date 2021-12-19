@@ -1,0 +1,268 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    font-family: "brandon-grotesque", "Brandon Grotesque", "Helvetica", "Arial", sans-serif;
+}
+.harry{
+    width: 85%;
+}
+.grocery{
+    width: 60%;
+    margin-left: 1rem;
+}
+.grey-link{
+    color: #666666;
+    text-decoration: none;
+    font-size: 13px;
+    margin: 10px;
+}
+.nav-three{
+    text-align: center;
+    padding: 8px;
+}
+.nav-three-link{
+    color: rgb(102, 102, 102);
+    text-decoration: none;
+    font-size: 16px;
+    margin: 10px;
+}
+.nav-three-link-red{
+    color: rgb(235, 20, 32);
+    text-decoration: none;
+    font-size: 16px;
+    margin: 10px;
+
+}
+.nav-one{
+    display: flex;
+    align-items: center;
+}
+.nav-two{
+    display: flex;
+    align-items: center;
+    justify-content: left;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    padding:0.5rem 2.5rem;
+    border-bottom: 1px solid #dddddd;
+}
+.section-one{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(38, 54, 69);
+    color: rgb(255, 255, 255);
+    padding: 7px;
+}
+.dollar-image{
+    width: 35px;
+    color: white;
+}
+h6{
+    font-size: 13px;
+    font-weight: 200;
+}
+.learn-more{
+    
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+}
+.section-two{
+    display: flex;
+    justify-content: space-evenly;
+}
+.box-one{
+    text-align: center;
+    padding: 1rem 9.5rem 30rem 9.5rem;
+    background-position: 50% 50%;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-image: url(https://www.harrys.com/harrys-cdnx-prod/assets/images/tile_image_full_bleeds/attachments/e270b6e1be0523273ade79f762adbf9350b76dab.jpg);
+}
+.box-one-two{
+    text-align: center;
+    padding: 1rem 9.5rem 30rem 9.5rem;
+    background-position: 50% 50%;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-image: url(https://www.harrys.com/harrys-cdnx-prod/assets/images/tile_image_full_bleeds/attachments/de8f3cea83231b0339dc5bfed73e2e2d075a5ed9.jpg);
+}
+.orange-button{
+    color: white;
+    background-color: #D1461C;
+    border-color:#D1461C ;
+    text-decoration: none;
+    font-size: 0.8rem;
+    padding: 0.8rem 2rem;
+    border-radius: 5px;
+}
+h1{
+    font-size: 1.4rem;
+    margin: 1.5rem;
+    color: rgb(38, 54, 69);
+    line-height: 2rem;
+}
+h3{
+    font-size: 1.1rem;
+    color: rgb(78, 78, 78);
+}
+p{
+    font-size: 16px;
+    margin: 1.5rem;
+    line-height: 2rem;
+    color: rgb(78, 78, 78);
+}
+.section-three-container{
+    text-align: center;
+    padding: 3rem;
+}
+.section-three{
+    display: flex;
+    
+}
+.box-three{
+    padding: 3rem;
+}
+.box-three p{
+    line-height: 18px;
+}
+.section-three-image{
+    width: 13%;
+}
+.section-four{
+    display: flex;
+    justify-content: space-evenly;
+}
+.box-four-one{
+    text-align: center;
+    padding: 27rem 5rem 2rem 5rem;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-image: url(https://www.harrys.com/harrys-cdnx-prod/assets/images/tile_image_full_bleeds/attachments/323d6d85fde1bdd51754831da2ae62cd1ea82d66.jpg);
+}
+.box-four-two{
+    text-align: center;
+    padding: 27rem 5rem 2rem 5rem;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-image: url(https://www.harrys.com/harrys-cdnx-prod/assets/images/tile_image_full_bleeds/attachments/ed2d92c2616c75f808e66caa1209ece026bb9299.jpg);
+}
+.black-line{
+    text-decoration: none;
+    color: rgb(38, 54, 69);
+    border-bottom: 1px solid  rgb(38, 54, 69);
+    font-size: 13px;
+}
+.section-five-container{
+    text-align: center;
+    background-color: rgb(247, 247, 247);
+    padding: 2rem 0;
+}
+.section-five{
+    display: flex;
+    justify-content: space-evenly;
+}
+.mt{
+    margin-top: 3rem;
+}
+.box-five{
+    background-color: #fff;
+    padding: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.box-five-link{
+    font-size: 1rem;
+    text-decoration: none;
+    color: rgb(78, 78, 78);
+}
+.box-five-image{
+    width: 335px;
+    margin-bottom: 2rem;
+}
+.bf-box{
+    display: flex;
+    align-items: center;
+    margin-top: 1rem;
+}
+button{
+    color: white;
+    background-color: #D1461C;
+    border-color:#D1461C ;
+    font-size: 0.8rem;
+    padding: 0.4rem 1rem;
+    border-radius: 5px;
+}
+.section-six{
+    text-align: center;
+    padding: 2rem 26rem;
+}
+.section-six img{
+    width: 260px;
+}
+.footer-one{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgb(221, 221, 221);
+    padding: 2rem 0;
+}
+.footer-img-box{
+    text-align: center;
+    border-right: 1px solid rgb(38, 54, 69);
+    padding-right: 5rem;
+    
+}
+.footer-img-box a,li{
+    list-style: none;
+    text-decoration: none;
+    color: rgb(78, 78, 78);
+    margin: 1rem 0;
+}
+h4{
+    font-size: 1.4rem;
+    color: rgb(38, 54, 69);
+}
+h5{
+    color: rgb(38, 54, 69);
+}
+h6{
+    font-size: 11px;
+}
+.img-div{
+    display: flex;
+    align-items: center;
+}
+.img-div a{
+    font-size: 1.1rem;
+    margin-left: 10px;
+}
+ul a{
+   text-decoration: none;
+   color: rgb(78, 78, 78);
+   font-size: 13px;
+}
+ul li{
+    list-style: none;
+    margin: 10px 0;
+}
+ul img{
+    margin: 10px 0;
+}
+.footer-two{
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem 2rem;
+    background-color: rgb(38, 54, 69);
+    color: white;
+}
+.footer-box a{
+    text-decoration: none;
+    color: white;
+    font-size: 11px;
+    margin: 5px;
+}
